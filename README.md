@@ -1,6 +1,4 @@
-### Hi there 👋
-
-good good study, day day up!🤣
+### good good study, day day up!🤣
 <!--
 **xyz327/xyz327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
